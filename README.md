@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ayushtripathi-45/LeetHub/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/ayushtripathi-45/LeetHub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ayushtripathi-45/LeetHub/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushtripathi-45/LeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushtripathi-45/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/ayushtripathi-45/LeetHub/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/ayushtripathi-45/LeetHub/tree/master/0561-array-partition) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ayushtripathi-45/LeetHub/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushtripathi-45/LeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushtripathi-45/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Stack
 |  |
