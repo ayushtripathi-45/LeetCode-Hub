@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushtripathi-45/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/ayushtripathi-45/LeetHub/tree/master/0976-largest-perimeter-triangle) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayushtripathi-45/LeetHub/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Counting Sort
 |  |
 | ------- |
