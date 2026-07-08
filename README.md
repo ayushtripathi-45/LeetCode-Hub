@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/ayushtripathi-45/LeetHub/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/ayushtripathi-45/LeetHub/tree/master/0620-not-boring-movies) |
 | [1070-product-sales-analysis-iii](https://github.com/ayushtripathi-45/LeetHub/tree/master/1070-product-sales-analysis-iii) |
+| [1164-product-price-at-a-given-date](https://github.com/ayushtripathi-45/LeetHub/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/ayushtripathi-45/LeetHub/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/ayushtripathi-45/LeetHub/tree/master/1193-monthly-transactions-i) |
 | [1661-average-time-of-process-per-machine](https://github.com/ayushtripathi-45/LeetHub/tree/master/1661-average-time-of-process-per-machine) |
