@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/ayushtripathi-45/LeetHub/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ayushtripathi-45/LeetHub/tree/master/1331-rank-transform-of-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushtripathi-45/LeetHub/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ayushtripathi-45/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushtripathi-45/LeetHub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayushtripathi-45/LeetHub/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushtripathi-45/LeetHub/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/ayushtripathi-45/LeetHub/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/ayushtripathi-45/LeetHub/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ayushtripathi-45/LeetHub/tree/master/1331-rank-transform-of-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ayushtripathi-45/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayushtripathi-45/LeetHub/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ayushtripathi-45/LeetHub/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayushtripathi-45/LeetHub/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushtripathi-45/LeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushtripathi-45/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayushtripathi-45/LeetHub/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ayushtripathi-45/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushtripathi-45/LeetHub/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushtripathi-45/LeetHub/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ayushtripathi-45/LeetHub/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayushtripathi-45/LeetHub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/ayushtripathi-45/LeetHub/tree/master/0976-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushtripathi-45/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ayushtripathi-45/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ayushtripathi-45/LeetHub/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
 |  |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ayushtripathi-45/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayushtripathi-45/LeetHub/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## String
 |  |
@@ -241,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ayushtripathi-45/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushtripathi-45/LeetHub/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ayushtripathi-45/LeetHub/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
