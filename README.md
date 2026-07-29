@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-immediate-food-delivery-ii](https://github.com/ayushtripathi-45/LeetHub/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/ayushtripathi-45/LeetHub/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/ayushtripathi-45/LeetHub/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1321-restaurant-growth](https://github.com/ayushtripathi-45/LeetHub/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/ayushtripathi-45/LeetHub/tree/master/1341-movie-rating) |
 | [1527-patients-with-a-condition](https://github.com/ayushtripathi-45/LeetHub/tree/master/1527-patients-with-a-condition) |
 | [1661-average-time-of-process-per-machine](https://github.com/ayushtripathi-45/LeetHub/tree/master/1661-average-time-of-process-per-machine) |
