@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/ayushtripathi-45/LeetHub/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/ayushtripathi-45/LeetHub/tree/master/0177-nth-highest-salary) |
 | [0550-game-play-analysis-iv](https://github.com/ayushtripathi-45/LeetHub/tree/master/0550-game-play-analysis-iv) |
 | [0584-find-customer-referee](https://github.com/ayushtripathi-45/LeetHub/tree/master/0584-find-customer-referee) |
