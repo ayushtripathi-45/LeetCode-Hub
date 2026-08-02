@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushtripathi-45/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayushtripathi-45/LeetHub/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0845-longest-mountain-in-array](https://github.com/ayushtripathi-45/LeetHub/tree/master/0845-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/ayushtripathi-45/LeetHub/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/ayushtripathi-45/LeetHub/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushtripathi-45/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/ayushtripathi-45/LeetHub/tree/master/1200-minimum-absolute-difference) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ayushtripathi-45/LeetHub/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ayushtripathi-45/LeetHub/tree/master/0509-fibonacci-number) |
 | [0845-longest-mountain-in-array](https://github.com/ayushtripathi-45/LeetHub/tree/master/0845-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/ayushtripathi-45/LeetHub/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushtripathi-45/LeetHub/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushtripathi-45/LeetHub/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ayushtripathi-45/LeetHub/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ayushtripathi-45/LeetHub/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ayushtripathi-45/LeetHub/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushtripathi-45/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ayushtripathi-45/LeetHub/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/ayushtripathi-45/LeetHub/tree/master/0976-largest-perimeter-triangle) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushtripathi-45/LeetHub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushtripathi-45/LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -319,4 +322,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ayushtripathi-45/LeetHub/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ayushtripathi-45/LeetHub/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
