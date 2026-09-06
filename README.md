@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ayushtripathi-45/LeetHub/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/ayushtripathi-45/LeetHub/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ayushtripathi-45/LeetHub/tree/master/0509-fibonacci-number) |
 | [0845-longest-mountain-in-array](https://github.com/ayushtripathi-45/LeetHub/tree/master/0845-longest-mountain-in-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ayushtripathi-45/LeetHub/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayushtripathi-45/LeetHub/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ayushtripathi-45/LeetHub/tree/master/0179-largest-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushtripathi-45/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
