@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/ayushtripathi-45/LeetHub/tree/master/0184-department-highest-salary) |
 | [0550-game-play-analysis-iv](https://github.com/ayushtripathi-45/LeetHub/tree/master/0550-game-play-analysis-iv) |
 | [0584-find-customer-referee](https://github.com/ayushtripathi-45/LeetHub/tree/master/0584-find-customer-referee) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/ayushtripathi-45/LeetHub/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/ayushtripathi-45/LeetHub/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/ayushtripathi-45/LeetHub/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/ayushtripathi-45/LeetHub/tree/master/0626-exchange-seats) |
