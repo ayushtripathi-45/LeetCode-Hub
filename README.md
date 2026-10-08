@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ayushtripathi-45/LeetHub/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1021-remove-outermost-parentheses](https://github.com/ayushtripathi-45/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushtripathi-45/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/ayushtripathi-45/LeetHub/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushtripathi-45/LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ayushtripathi-45/LeetHub/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ayushtripathi-45/LeetHub/tree/master/0179-largest-number) |
 | [0940-distinct-subsequences-ii](https://github.com/ayushtripathi-45/LeetHub/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/ayushtripathi-45/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushtripathi-45/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/ayushtripathi-45/LeetHub/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushtripathi-45/LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ayushtripathi-45/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushtripathi-45/LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayushtripathi-45/LeetHub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushtripathi-45/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
