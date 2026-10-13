@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-movie-rating](https://github.com/ayushtripathi-45/LeetHub/tree/master/1341-movie-rating) |
 | [1527-patients-with-a-condition](https://github.com/ayushtripathi-45/LeetHub/tree/master/1527-patients-with-a-condition) |
 | [1661-average-time-of-process-per-machine](https://github.com/ayushtripathi-45/LeetHub/tree/master/1661-average-time-of-process-per-machine) |
+| [1667-fix-names-in-a-table](https://github.com/ayushtripathi-45/LeetHub/tree/master/1667-fix-names-in-a-table) |
 | [1789-primary-department-for-each-employee](https://github.com/ayushtripathi-45/LeetHub/tree/master/1789-primary-department-for-each-employee) |
 | [1934-confirmation-rate](https://github.com/ayushtripathi-45/LeetHub/tree/master/1934-confirmation-rate) |
 ## Breadth-First Search
